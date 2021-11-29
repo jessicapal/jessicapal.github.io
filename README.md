@@ -1,3 +1,3 @@
 https://jessicapal.github.io/  
 
-[scan](img/vietnam.jpg)
+[!scan](img/vietnam.jpg)
