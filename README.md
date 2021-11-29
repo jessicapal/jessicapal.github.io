@@ -1,2 +1,2 @@
 https://jessicapal.github.io/
-(img/vietnam.jpg)
+[scan](img/vietnam.jpg)
